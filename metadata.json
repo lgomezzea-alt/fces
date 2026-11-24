@@ -1,0 +1,6 @@
+{
+  "name": "SENA Línea SET — Gestión Territorial DECT",
+  "description": "Plataforma operativa para Centros de Formación del SENA en la formulación, presupuestación, contratación, ejecución y cierre de proyectos de la Línea 3 – SENA Especializa Territorios (SET).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
